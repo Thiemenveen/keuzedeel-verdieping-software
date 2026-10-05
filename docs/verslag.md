@@ -41,13 +41,42 @@ Let op, dit is een voorbeeld opzet.
 
 ### Onderzoek
 
+https://nl.indeed.com/q-laravel-vue-js-vacatures.html?vjk=a3202e67b55a4864 (Laravel + Vue)
+
+https://nl.indeed.com/jobs?q=laravel+livewire&l=&from=searchOnDesktopSerp&vjk=6030a61ffa5157ee (Laravel + Livewire)
+
+https://nl.indeed.com/jobs?q=laravel+react&l=&from=searchOnDesktopSerp&vjk=5d61fbe546255040 (Laravel + React)
+
+
+
 Zoek minstens 3 voorbeelden van vacatures met softwarepakketten óf 3 voorbeelden van bedrijven die bepaalde softwarepakketten gebruiken. Neem deze op in je verslag. Zorg dat je zowel een foto als link van elke vacature of website in je verslag zet.
 
 Leg uit hoe je je onderzoek hebt gedaan.
 
 ### Vergelijking
 
-Vergelijk de pakketten op tenminste 5 punten
+**vergelijkenis punten**
+1. **Gebruiksvriendelijkheid van de documentatie**
+- Hoe duidelijk en uitgebreid is de documentatie?
+- Hoe makkelijk is het voor een beginner om ermee te starten
+
+2. **Kans op een baan**
+- Hoeveel vraag is er naar de technologie/stack op de arbeidsmarkt?
+- Hoe relevant is kennis van deze starter kit voor Laravel-vacatures?
+
+3. **Populariteit en gebruik**
+- Hoeveel wordt de starter kit gebruikt?
+- Is het een veelgebruikte of relatief niche oplossing?
+- Hoe actief is de community?
+
+4. **Moeilijkheidsgraad om te leren**
+- Hoe makkelijk is de starter kit te begrijpen voor iemand die Laravel al kent?
+- Hoeveel extra technologieën of concepten moet je leren?
+
+5. **Flexibiliteit en uitbreidbaarheid**
+- Hoe makkelijk kun je de starter kit aanpassen aan je eigen project?
+- Kun je eenvoudig andere libraries, frontend-technologieën of functionaliteiten toevoegen?
+
 
 ### Keuze
 
